@@ -5,7 +5,9 @@
 - BSC Psychology @ University of Roehampton - 2019-2022
 
 ### Work Experience:
-- Associate IT Project Manager @ RS Group - 2024-present
+- Founder @ Uncultured Data - December 2025 - present
+- Associate IT Project Manager @ RS Group - September 2024 - December 2025
+- Project Officer @ Huntingdonshire District Council - July 2022 - August 2024
 
 ### Projects
 - project A
