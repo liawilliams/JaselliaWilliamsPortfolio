@@ -2,7 +2,7 @@
 
 ### Education:
 - MSc Data Science @ University of Essex - 2025-present
-- BSC Psychology @ University of Roehampton - 2019-2022
+- BSc Psychology @ University of Roehampton - 2019-2022
 
 ### Work Experience:
 - Founder @ Uncultured Data - December 2025 - present
