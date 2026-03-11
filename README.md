@@ -5,11 +5,10 @@
 - BSc Psychology @ University of Roehampton - 2019-2022
 
 ### Work Experience:
+- Data Analyst @ TestEquity - February 2026 - present
 - Founder @ Uncultured Data - December 2025 - present
 - Associate IT Project Manager @ RS Group - September 2024 - December 2025
 - Project Officer @ Huntingdonshire District Council - July 2022 - August 2024
 
 ### Projects
-- project A
-- project B
-- project C
+- Exploratory Data Analysis of Diabetes in Pima Indians 
