@@ -7,7 +7,7 @@ This portfolio is a hub to display my work, showcasing projects which showcase m
 ## Featured Projects
 
 #### SQL
-- [B2B Database Management System](link): the build of a MySQL database solution for ElectroSpares, a B2B organisation providing furniture and office equipment to businesses.
+- [B2B Database Management System](link): a MySQL database solution for ElectroSpares, a B2B organisation providing furniture and office equipment to businesses.
 
 #### Python
 - [MMA Exploratory Data Analysis](link): analysis of a Portuguese bank's telemarketing campaign, using advanced analytics to identify trends and provide viable strategies to optimise marketing activities. 
