@@ -10,7 +10,10 @@ This portfolio is a hub to display my work, showcasing projects which showcase m
 - [B2B Database Management System](link): a MySQL database solution for ElectroSpares, a B2B organisation providing furniture and office equipment to businesses.
 
 #### Python
-- [MMA Exploratory Data Analysis](link): analysis of a Portuguese bank's telemarketing campaign, using advanced analytics to identify trends and provide viable strategies to optimise marketing activities. 
+- [MMA Exploratory Data Analysis](link): analysis of a Portuguese bank's telemarketing campaign, using advanced analytics to identify trends and provide viable strategies to optimise marketing activities.
+
+#### Tableau
+- [WTA Tour Performance Dashboard](link): a dashboard built using Tableau which plots several key statistical findings from the 2024 WTA Tour season. 
 
 ## Work Experience
 
