@@ -10,14 +10,14 @@ This portfolio is a hub to display my work, showcasing projects which showcase m
 - [B2B Database Management System](https://github.com/liawilliams/JaselliaWilliamsPortfolio/tree/main/Projects/B2B%20Database%20Management%20System): a MySQL database solution for ElectroSpares, a B2B organisation providing furniture and office equipment to businesses.
 
 #### Python
-- [MMA Exploratory Data Analysis](https://github.com/liawilliams/JaselliaWilliamsPortfolio/tree/main/Projects/Bank%20Marketing%20Campaign%20Analysis): analysis of a Portuguese bank's telemarketing campaign, using advanced analytics to identify trends and machine learning to optimise marketing activities.
+- [Bank Telemarketing Exploratory Data Analysis](https://github.com/liawilliams/JaselliaWilliamsPortfolio/tree/main/Projects/Bank%20Marketing%20Campaign%20Analysis): analysis of a Portuguese bank's telemarketing campaign, using advanced analytics to identify trends and machine learning to optimise marketing activities.
 
 #### Tableau
 - [WTA Tour Performance Dashboard](https://github.com/liawilliams/JaselliaWilliamsPortfolio/tree/main/Projects/WTA%20Tour%20Performance%20Dashboard): a dashboard built using Tableau which plots several key statistical findings from the 2024 WTA Tour season. 
 
 ## Work Experience
 
-- Data Analyst @ TestEquity Europe: February 2026 - present
+- Data Analyst Intern @ TestEquity Europe: February 2026 - present
 - IT Project Manager @ RS Group: September 2024 - December 2025
 - Project Officer @ Huntingdonshire District Council: July 2022 - August 2024
 
