@@ -17,7 +17,7 @@ This portfolio is a hub to display my work, showcasing projects which showcase m
 
 ## Work Experience
 
-- Data Analyst Intern @ TestEquity Europe: February 2026 - present
+- Data Analyst @ TestEquity Europe: February 2026 - October 2026
 - IT Project Manager @ RS Group: September 2024 - December 2025
 - Project Officer @ Huntingdonshire District Council: July 2022 - August 2024
 
