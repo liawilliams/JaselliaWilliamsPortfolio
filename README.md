@@ -1,8 +1,10 @@
 # Welcome to Jasellia Williams' ePortfolio
 
-I am Jasellia Williams, a **Data Analyst** and current **MSc Data Science student**, obsessed with using data to answer key questions and solve problems. 
+I am Jasellia Williams, a **Data Analyst** and current **MSc Data Science student**, obsessed with using data to answer key questions and solve problems. Having worked in IT Project Management for 3 years, I possess hands-on experience using data to uncover insights and optimise project spend, resource allocation, and scope.
 
-This portfolio is a hub to display my work, showcasing projects which showcase my skills in data analysis, visualisation, and database management. 
+This portfolio is a hub to display my work, showcasing projects which showcase my skills in data analysis, visualisation, and database management.
+
+I am actively looking for an opportunity to bring my experience in project and operational delivery, plus my technical expertise in SQL, Python, Power BI, and Tableau, to drive organisational performance. 
 
 ## Featured Projects
 
@@ -18,10 +20,14 @@ This portfolio is a hub to display my work, showcasing projects which showcase m
 
 ## Work Experience
 
-- Data Analyst @ TestEquity Europe: February 2026 - October 2026
+- Contract Data Analyst @ TestEquity Europe: February 2026 - October 2026
 - IT Project Manager @ RS Group: September 2024 - December 2025
 - Project Officer @ Huntingdonshire District Council: July 2022 - August 2024
 
 ## Education
 - MSc Data Science @ University of Essex: 2025 - 2027
 - BSc Psychology @ University of Roehampton: 2019 - 2022
+
+## Contact
+- [Email](jaselliawilliams@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/jaselliawilliams/)
