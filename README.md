@@ -29,5 +29,5 @@ I am actively looking for an opportunity to bring my experience in project and o
 - BSc Psychology @ University of Roehampton: 2019 - 2022
 
 ## Contact
-- [Email](jaselliawilliams@gmail.com) 
-- [LinkedIn](https://www.linkedin.com/in/jaselliawilliams/)
+- Email:jaselliawilliams@gmail.com
+- LinkedIn: [Jasellia Williams](https://www.linkedin.com/in/jaselliawilliams/)
