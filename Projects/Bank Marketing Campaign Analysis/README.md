@@ -1,4 +1,4 @@
-# Predicting Term Deposit Subscriptions: Bank Telemarketing Analysis
+# Predicting Who Opens a Savings Account: Bank Telemarketing Campaign Analysis
 
 A project featuring exploratory data analysis (EDA) and logistic regression modelling to help a Portuguese bank target its telemarketing campaigns more efficiently.
 
