@@ -1,6 +1,6 @@
 # Predicting Who Opens a Savings Account: Bank Telemarketing Campaign Analysis
 
-A project featuring exploratory data analysis (EDA) and logistic regression modelling to help a Portuguese bank target its telemarketing campaigns more efficiently.
+This project features exploratory data analysis (EDA) and logistic regression modelling to help a Portuguese bank target its telemarketing campaigns more efficiently.
 
 **Languages & Libraries:** Python, pandas, matplotlib, seaborn, scikit-learn, imbalanced-learn (SMOTE)
 
